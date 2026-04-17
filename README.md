@@ -1,50 +1,52 @@
 # Employee-Burn-and-Fatigue-Predictive-Analysis
+
+<img width="853" height="1280" alt="Image" src="https://github.com/user-attachments/assets/33ade353-6f6d-43d7-b050-2dfac7789c4c" />
+
+<img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/c3eb1fc4-76b6-411e-80ed-ee359abdc2bc" />
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5da9731a-43d8-4474-801d-8c1399072da2" />
+
 This work provides an exploratory analysis of employee workload, fatigue, and burn indicators across demographics, company type, work-from-home availability, and seniority. It highlights distributions, relationships, and potential risk areas, while handling missing values and outliers to ensure robust insights.
 ##📊 Regression Analysis: Designation vs Mental Fatigue
-📌 Overview
+
+###📌 Overview
 
 This project explores the relationship between Designation (independent variable) and Mental Fatigue Score (dependent variable) using a linear regression model.
 
 The goal is to determine whether an increase in job designation is associated with higher levels of mental fatigue.
 
-🧮 Model Specification
+###🧮 Model Specification
 
 The regression model is defined as:
 
-[
-\text{Mental Fatigue Score} = 2.9113 + 1.0523 \times \text{Designation}
-]
+[\text{Mental Fatigue Score} = 2.9113 + 1.0523 \times \text{Designation}]
 
 Intercept (2.9113): Baseline mental fatigue when designation is zero
 Slope (1.0523): Increase in mental fatigue for each unit rise in designation
-📈 Key Statistics
+
+###📈 Key Statistics
 Metric	Value	Interpretation
 Multiple R	0.486	Moderate positive correlation
 R Square (R²)	0.236	23.6% of variation explained
 Adjusted R²	0.236	Model remains stable
 Standard Error	2.15	Moderate prediction error
 Observations	22,749	Large dataset
-🧪 ANOVA Results
+
+###🧪 ANOVA Results
 Source	df	SS	MS	F	Significance
 Regression	1	32457.85	32457.85	7016.19	0.000
 Residual	22747	105230.79	4.63	
-	
-
 Total	22748	137688.64	
 	
-	
-
-
 👉 The model is statistically significant, meaning the relationship is not due to chance.
 
-📉 Coefficients Summary
+###📉 Coefficients Summary
 Variable	Coefficient	P-value	Interpretation
 Intercept	2.9113	0.000	Significant baseline fatigue
 Designation	1.0523	0.000	Strong positive effect
-
 👉 Both coefficients are highly significant.
 
-🔗 Correlation
+###🔗 Correlation
 Correlation coefficient ≈ 0.503
 Indicates a moderate positive relationship between designation and mental fatigue.
 🧠 Interpretation
@@ -53,8 +55,8 @@ As employees move to higher designations, their mental fatigue tends to increase
 However, the model explains only 23.6% of the variation, suggesting:
 Other factors (e.g., workload, environment, stress) also influence fatigue.
 ⚠️ Limitations
-The model includes only one predictor (designation)
-Moderate R² indicates missing explanatory variables
+The modelabove includes only one predictor (designation)
+Moderate R² indicates missing explanatory variables which are explored below
 Does not capture non-linear or complex relationships
 🚀 Conclusion
 
@@ -89,4 +91,4 @@ Fatigue ≈ 5.46
 
 ## I am available for future collaboration via email: dotunjoshua5@gmail.com 
 
-and LinkedIn: Andrew Omotayo
+## LinkedIn: Andrew Omotayo
