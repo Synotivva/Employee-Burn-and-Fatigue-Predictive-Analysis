@@ -65,21 +65,26 @@ This analysis confirms that designation significantly impacts mental fatigue, wi
 ## Additional variables to improve accuracy includes:
 
 📊 Key Insights
-🧩 Resource Allocation
+
+###🧩 Resource Allocation
 Resource allocation is highly concentrated: the top three allocation levels each hold ~14–18% of total share.
 Smaller levels contribute minimally, with "Other" accounting for less than 1%, indicating strong clustering of resources.
 Allocation increases steadily with designation (~1.21 → 9.19), showing that higher roles receive more resources.
-🔥 Burn Rate & Mental Fatigue
+
+###🔥 Burn Rate & Mental Fatigue
 Burn rate rises significantly from ~15% (junior levels) to ~85.7% (highest designation).
 Mental fatigue increases from ~2.64 to ~8.94 across designation levels.
 Indicates a strong positive relationship between role seniority and stress levels.
-👥 Workforce Distribution
+
+###👥 Workforce Distribution
 Mid-level designations (levels 1–3) have the largest employee population.
 These levels therefore concentrate the highest overall burn and fatigue risk across the organization.
-📈 Trend Analysis
+
+###📈 Trend Analysis
 Average burn rate shows a steady upward trend with increasing designation.
 Suggests progressively higher workload, responsibility, or pressure in senior roles.
-⚖️ Gender Insights
+
+###⚖️ Gender Insights
 Males:
 Burn ≈ 0.48
 Fatigue ≈ 6.02
@@ -88,6 +93,23 @@ Burn ≈ 0.42
 Fatigue ≈ 5.46
 
 👉 The fatigue gap (~0.56) is larger than the burn gap, indicating deeper differences in experienced strain.
+
+###🏢 Company Type Insights
+Service companies employ roughly 2× more people than Product companies:
+Service: ~14,833
+Product: ~7,917
+Both types show a similar distribution of WFH availability.
+
+###🏠 Remote Work (WFH)
+Remote work is widely available across both company types.
+The "WFH Available" group is larger than the "Not Available" group.
+
+###📅 Recent Hiring Trends
+Past 12 months show stable hiring patterns:
+Average Burn ≈ 0.45
+Mental Fatigue ≈ 5.7 – 5.8
+Monthly Headcount ≈ 1,800 – 1,970
+Minimal variation suggests consistent workforce planning.
 
 ## I am available for future collaboration via email: dotunjoshua5@gmail.com 
 
