@@ -1,6 +1,6 @@
 # Employee-Burn-and-Fatigue-Predictive-Analysis
 
-<img width="840" height="495" alt="Image" src="https://github.com/user-attachments/assets/e3d54670-6bb5-4752-a480-6a4517cef6d9" />
+<!-- Uploading "file_000000008cf872468f66cc1b070ca3ef.png"... -->
 
 This work provides an exploratory analysis of employee workload, fatigue, and burn indicators across demographics, company type, work-from-home availability, and seniority. It highlights distributions, relationships, and potential risk areas, while handling missing values and outliers to ensure robust insights.
 ##📊 Regression Analysis: Designation vs Mental Fatigue
